@@ -1,0 +1,113 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background-image: url(/img/img\ 1.jpg);
+    font-family: sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    background-color: white;
+    border-radius: 6px;
+    padding: 4px;
+}
+button.btn{
+    color: black;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.518);
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    margin-right: 60%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 6px;
+}
+.navbar {
+    background-color: rgba(43, 41, 41, 0.27); 
+    display: flex; 
+    align-items: center; 
+    padding: 15px; 
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    
+}
+
+.menu {
+    display: flex; 
+    margin-left: auto; 
+    border-radius: 5px;
+    font-size: 16px;
+    padding-right: 50px;
+}
+
+.menu li {
+    margin-right: 50px; 
+}
+
+.menu li:last-child {
+    margin-right: 0; 
+}
+
+.menu li a { 
+    text-decoration: none;
+    color: white; 
+    font-weight: bold; 
+}
+
+.menu li a:hover {
+    color: blue; 
+}
+
+.logo {
+    width: 50px; 
+    height: auto; 
+    margin-right: 20px; 
+    border-radius: 50%;
+}
+
+.btn {
+    display: flex;  
+    border-radius: 5px;
+}
+
+.btn li {
+    margin-right: 25px; 
+}
+
+.btn li a {
+    text-decoration: none; 
+    color: black; 
+    font-weight: bold; 
+}
+
+.btn li a:hover {
+    color: blue; 
+}
+.btn1 {
+    display: flex;  
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 0;
+    margin-right: -45px;
+}
+
+.btn1 li {
+    margin-right: 50px; 
+}
+.btn1 li a {
+    text-decoration: none;
+    color: black; 
+    font-weight: bold; 
+}
+
+.btn1 li a:hover {
+    color: blue; 
+}

@@ -1,0 +1,45 @@
+body{
+    background-image: url(/assets/img/tank.gif);
+    background-size: 100%;
+}
+h1{
+    color: blue;
+}
+p{
+    font-size: 15px;
+    background-color: beige;
+}
+span{
+    color: red;
+}
+body{
+    background-color: darkseagreen;
+}
+.content{
+    background-color: aliceblue;
+    text-align: justify;
+}
+.container{
+    box-shadow: 10px 13px 0 -1px rgba(rgb(255, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), alpha);
+}
+.judul{
+    text-decoration:underline ;
+    font-family: monospace;
+    text-align: left;
+    text-shadow: 2px 2px wheat;
+}
+#judul1{
+    text-align: center;
+    text-decoration: underline;
+}
+#judul2{
+    text-align: left;
+    text-decoration: underline;
+    color: deeppink;
+}
+.mk:hover{
+    background-color: blue;
+    color: black;
+}
+
+
